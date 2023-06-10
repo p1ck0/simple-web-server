@@ -36,7 +36,7 @@ close(4) = 0
 accept(3, NULL, NULL) = ?
 ```
 
-## Buid
+## Build
 ```bash
 $ make build
 $ make run
